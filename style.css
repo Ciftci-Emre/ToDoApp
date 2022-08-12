@@ -1,13 +1,13 @@
 body {
     background-color: #21262E;
     color: white;
-    font-family: 'Brush Script MT', cursive;
+    font-family: 'Lucida Bright', cursive;
     display: flex;
     flex-direction: column;
 }
 
 input[type="submit"]{
-    font-family: 'Brush Script MT', cursive;
+    font-family: 'Lucida Bright', cursive;
     font-size: 1rem;
     appearance: none;
     border: none;
@@ -19,7 +19,7 @@ input[type="submit"]{
 input[type="text"]{
     width: 210px;
     height: 24px;
-    font-family: 'Brush Script MT', cursive;
+    font-family: 'Lucida Bright', cursive;
     font-size: 1rem;
     appearance: none;
     border: none;
@@ -30,7 +30,7 @@ input[type="text"]{
 input[type="date"]{
     width: 210px;
     height: 24px;
-    font-family: 'Brush Script MT', cursive;
+    font-family: 'Lucida Bright', cursive;
     font-size: 1rem;
     appearance: none;
     border: none;
